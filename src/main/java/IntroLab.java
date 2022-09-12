@@ -37,7 +37,7 @@ public class IntroLab {
      * A method that uses the printLabMessage method.
      */
     public static String mistr156() {
-        return printLabMessage("Hello", "Rohan Mistry", false, "Dogs better tbh");
+        return printLabMessage("Hello", "Rohan Mistry", false, "Dogs are better");
     }
 
     /**
